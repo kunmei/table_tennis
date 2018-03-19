@@ -1,9 +1,9 @@
 {
   "name": "random",
   "main": "random.js",
-  "homepage": "https://github.com/ElemeFE/random",
+  "homepage": "https://github.com/kunmei/table_tennis",
   "authors": [
-    "sofish <happinesz@gmail.com>"
+    "meikun <meikun@zhongan.io>"
   ],
   "description": "a better way to get carved up",
   "moduleType": [],
